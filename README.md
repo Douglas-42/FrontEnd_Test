@@ -7,5 +7,4 @@
 
 ## Imagens
 ![alt text](https://user-images.githubusercontent.com/74717916/112512905-932e3800-8d72-11eb-939a-4acf1ce8f83a.png)
-![alt text](https://user-images.githubusercontent.com/74717916/112513118-c7a1f400-8d72-11eb-838c-4094649efbdf.png)
 ![alt text](https://user-images.githubusercontent.com/74717916/112513192-d8526a00-8d72-11eb-9105-217979254fee.png)
