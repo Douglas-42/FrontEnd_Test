@@ -1,0 +1,50 @@
+.inputComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    margin-bottom: 1.25rem;
+}
+label{
+    font-size: 0.8rem;
+    margin-bottom: 0.25rem;
+    color: #a5a5a5;
+    font-weight: bold;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus,
+input{
+    width: 100%;
+    border:none;
+    border-bottom: solid 1px #dbdbdb;
+    background-color: #fff;
+    height: 2rem;
+    font-size: 1.2rem;
+    color: #888;
+    -webkit-text-fill-color: #888;
+    -webkit-box-shadow: 0 0 0px 1000px #fff inset;
+}
+input::placeholder{
+    color:#ddd;
+}
+input:-ms-input-placeholder{
+    color:#ddd;
+}
+input::-webkit-input-placeholder{
+    color:#ddd;
+}
+input:active{
+    background-color: #efefef;
+  }
+input:focus{
+    outline-style: none;
+    color:#555555;
+  }
